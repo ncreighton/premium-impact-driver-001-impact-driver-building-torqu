@@ -1,0 +1,2 @@
+# premium-impact-driver-001-impact-driver-building-torqu
+Tired of losing track of your torque settings and project specs mid-build? The Impact Driver Building &amp; Torque Burst Craft Hub turns your Notion workspace into a precision tool for planning, executing, and tracking every build.  This template solves the chaos of scattered notes and forgotten torque values by centralizing all your build data in one
